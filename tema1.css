@@ -1,0 +1,27 @@
+body{
+    text-align: left;
+    padding-left: 405px;
+    padding-right: 405px;
+    }
+span{
+    font-weight: bold;
+    }
+#second{
+    padding-left: 210px;
+    }
+#third{
+    padding-left: 10px;
+    }
+#forth{
+    padding-left: 10px;
+    }
+hr{ 
+    border: 0.5px black solid;
+    }
+#primulp{
+        color: grey;
+        font-style: italic;
+    }
+ul{
+    margin-left: -10px;
+    }
